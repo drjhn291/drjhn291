@@ -1,6 +1,6 @@
 ### ⬛ Hello! I'm drjhn ⬛
 
-![Profile Views](https://komarev.com/ghpvc/?username=drjhn291&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=drjhn291&label=PROFILE+VIEWS&color=18181b&style=for-the-badge)
 
 Welcome to my GitHub profile! I'm a self-taught programmer exploring software development, cybersecurity, and building small, functional tools.
 
