@@ -1,5 +1,7 @@
 ### ⬛ Hello! I'm drjhn ⬛
 
+![Profile Views](https://komarev.com/ghpvc/?username=drjhn291&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge)
+
 Welcome to my GitHub profile! I'm a self-taught programmer exploring software development, cybersecurity, and building small, functional tools.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D1D5DB&width=435&lines=Self-taught+programmer;Building+small+tools+that+work;Exploring+cybersecurity)](https://git.io/typing-svg)
